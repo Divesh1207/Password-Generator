@@ -121,7 +121,6 @@ function App() {
         <div>
           <button
             className='outline-none bg-blue-700 text-white px-3 py-0.5'
-            // className=' max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-blue-700 text-white '
             onClick={handler}
           >
             Refresh
